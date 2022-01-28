@@ -7,4 +7,4 @@ if __name__ == '__main__':
 x=45
 y=55
 z=x+y
-print("Sum of two given numbers:-",z)
+print("Sum of two given numbers:-",z) 
